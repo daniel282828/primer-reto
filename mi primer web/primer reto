@@ -1,0 +1,114 @@
+<!doctype html>
+ <html> 
+
+    <head>
+        <meta name="description" content="Web de calzado en Peru"/>
+        <meta charset="utf-8">
+        <title>PRIMER RETO</title>
+        <link rel="stylesheet" type="text/css" href="css/ESTILOS.CSS"/>
+         
+        
+    </head>
+
+
+    <body>
+
+        
+            <header>
+
+                <div> 
+                     <center>
+                         <img src="BIONICA PNG RECORTADO.png" width="350px" alt="logo de bionica" >
+                         <p>14 de Enero del 2016</P>
+                     </center>
+               </div>  
+
+            
+                    <hr> 
+                    <br>
+
+                <nav>
+                 
+                    <center>
+                    <ul class="menu">
+                       
+                       <a target="_blank" title="Go to BIONICA" href="https://facebook.com">INICIO</a>
+
+                       <a target="_blank" title="NOSOTROS" href="https://www.google.com">NOSOTROS</a>
+
+                       <a target="_blank" title="COLECCION 2016" href="https://www.google.com">COLECCION</a>
+
+                       <a target="_blank" title="BUY NOW" href="https://www.google.com">COMPRA AHORA</a>
+
+                       <a target="_blank" title="CONTACTANOS" href="https://www.google.com">CONTACTANOS</a>
+                    </center>
+     
+                </nav>
+                      <br>
+          </header>
+
+
+        <div>
+
+                <center>
+                          <img src="BIONICA web.png" width="" alt="">
+               </center>
+
+        </div>
+
+ <SECTION class="main">
+         <section class="articles">
+       
+                <article> 
+                        <h3>Articulo 1</h3><p>13 de Enero 2016</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales urna non odio egestas tempor. Nunc vel vehicula ante. Etiam bibendum iaculis libero, eget molestie nisl pharetra in. In semper consequat est, eu porta velit mollis nec.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales urna non odio egestas tempor. Nunc vel vehicula ante. Etiam bibendum iaculis libero, eget molestie nisl pharetra in. In semper consequat est, eu porta velit mollis nec. Curabitur posuere enim eget turpis feugiat tempor. Etiam ullamcorper lorem dapibus velit suscipit ultrices. Proin in est sed erat facilisis pharetra.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales urna non odio egestas tempor. Nunc vel vehicula ante. Etiam bibendum iaculis libero, eget molestie nisl pharetra in. In semper consequat est, eu porta velit mollis nec. Curabitur posuere enim eget turpis feugiat tempor. Etiam ullamcorper lorem dapibus velit suscipit ultrices. Proin in est sed erat facilisis pharetra.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales urna non odio egestas tempor. Nunc vel vehicula ante. Etiam bibendum iaculis libero, eget molestie nisl pharetra in. In semper consequat est, eu porta velit mollis nec. Curabitur posuere enim eget turpis feugiat tempor. Etiam ullamcorper lorem dapibus velit suscipit ultrices. Proin in est sed erat facilisis pharetra.</p>
+                </article>
+               
+                <article>
+                        <h3>Articulo 2</h3><p>13 de Enero 2016</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales urna non odio egestas tempor. Nunc vel vehicula ante. Etiam bibendum iaculis libero, eget molestie nisl pharetra in. In semper consequat est, eu porta velit mollis nec. Curabitur posuere enim eget turpis feugiat tempor. Etiam ullamcorper lorem dapibus velit suscipit ultrices. Proin in est sed erat facilisis pharetra.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales urna non odio egestas tempor. Nunc vel vehicula ante. Etiam bibendum iaculis libero, eget molestie nisl pharetra in. In semper consequat est, eu porta velit mollis nec. Curabitur posuere enim eget turpis feugiat tempor. Etiam ullamcorper lorem dapibus velit suscipit ultrices. Proin in est sed erat facilisis pharetra.</p>
+                </article>
+                 <article>
+                        <h3>Articulo3</h3><p>13 de Enero 2016</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales urna non odio egestas tempor. Nunc vel vehicula ante. Etiam bibendum iaculis libero, eget molestie nisl pharetra in. In semper consequat est, eu porta velit mollis nec. Curabitur posuere enim eget turpis feugiat tempor. Etiam ullamcorper lorem dapibus velit suscipit ultrices. Proin in est sed erat facilisis pharetra.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales urna non odio egestas tempor. Nunc vel vehicula ante. Etiam bibendum iaculis libero, eget molestie nisl pharetra in. In semper consequat est, eu porta velit mollis nec. Curabitur posuere enim eget turpis feugiat tempor. Etiam ullamcorper lorem dapibus velit suscipit ultrices. Proin in est sed erat facilisis pharetra.</p>
+                </article>
+                  <article>
+                        <h3>Articulo4</h3><p>13 de Enero 2016</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales urna non odio egestas tempor. Nunc vel vehicula ante. Etiam bibendum iaculis libero, eget molestie nisl pharetra in. In semper consequat est, eu porta velit mollis nec. Curabitur posuere enim eget turpis feugiat tempor. Etiam ullamcorper lorem dapibus velit suscipit ultrices. Proin in est sed erat facilisis pharetra.</p>
+                </article>
+
+        </section>
+           
+
+
+
+         <aside> 
+
+            <div> 
+
+             
+                    <img src="FOOTER 2.png" width="450px" alt="logo de bionica" >
+              
+                     
+             <form action="/pagina">
+                 Nombres:<input type="text" name="nombre" value="escribe tu nombre"><br>
+                Correo:<input type="text" name="apellido" value="escribe tu correo"><br>
+                Mensaje: <input type="text"  name="curso" value="escribe tu mensaje"><br>
+                       Enviar Datos:<imput type="text" name="envia">
+                                    <input type="submit" value="Enviar">
+                                    <input type="button" id="Cancel" onclick="cancelar()" value="Cancel">
+             </form>
+            </div>
+        </aside>
+ </section>
+
+
+
+
+
+                <footer> 
+                        <p>Copyright © 2016 · All Rights Reserved · BIONICA </p>
+                </footer>
+
+    </body>
+</html>
